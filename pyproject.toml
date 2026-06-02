@@ -1,6 +1,6 @@
 [project]
 name = "mfr24"
-version = "0.0.0"
+version = "0.1.0"
 description = "Unofficial Python SDK for MyFlightRadar24 flight lists"
 authors = [{ name = "James Ding", email = "james@twango.dev" }]
 readme = "README.md"
